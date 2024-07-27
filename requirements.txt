@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+databases
+sqlalchemy
+aiosqlite
+joblib
+scikit-learn
+pandas
+pymysql
+#pyngrok
